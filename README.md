@@ -1,6 +1,7 @@
 # quarkus-kafka-streams
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
+https://quarkus.io/guides/kafka-streams
 
 ## Build the application in dev mode
 mvn clean package -f producer/pom.xml
