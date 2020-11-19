@@ -13,6 +13,14 @@ It also brings up a kafka cluster with zookeeper
 
 docker-compose up --build
 
+The following component containers are started by docker compose 
+Starting quarkus-kafka-streams_zookeeper_1  ... done
+Starting quarkus-kafka-streams_aggregator_1 ... done
+Starting quarkus-kafka-streams_producer_1   ... done
+Starting quarkus-kafka-streams_kafka_1      ... done
+
+
+
 
 ### Inspect the aggregation topic with kafkacat
 
